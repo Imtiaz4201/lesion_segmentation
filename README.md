@@ -42,7 +42,7 @@ Additionally, Canny edge detection and contour detection are employed to fill up
 areas within the binary lesion, further enhancing the completeness and accuracy of the
 segmentation.
 <h2>Results</h2>
-● Adapted Rand Error: 6%
-● Precision: 94%
-● Recall: 94%
-● IoU: 88%
+● Adapted Rand Error: 6% <br>
+● Precision: 94% <br>
+● Recall: 94% <br>
+● IoU: 88% 

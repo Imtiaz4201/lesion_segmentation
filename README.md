@@ -13,6 +13,9 @@ applied to different types of medical imaging.
 <br>
 <h2>Description of Methods Figure</h2>
 ![plot](https://github.com/Imtiaz4201/lesion_segmentation/blob/main/dataset/report%20Image%5B3%5D.jpg)
+<p align="center">
+  <img src="[your_relative_path_here](https://github.com/Imtiaz4201/lesion_segmentation/blob/main/dataset/report%20Image%5B3%5D.jpg)" width="350" title="hover text">
+</p>
 <br>
 The preprocessing phase begins with a conversion of the input image from the BGR to RGB
 color space, facilitating consistent color representation. Subsequently, a median filtering

@@ -12,7 +12,7 @@ their diagnostic proficiency. The method is useful in a variety of medical speci
 applied to different types of medical imaging.
 <br>
 <h2>Description of Methods Figure</h2>
-![Image]([https://example.com/path/to/image.jpg](https://github.com/Imtiaz4201/lesion_segmentation/blob/main/dataset/report%20Image%5B3%5D.jpg))
+![Image](https://github.com/Imtiaz4201/lesion_segmentation/blob/main/dataset/report%20Image%5B3%5D.jpg)
 <br>
 The preprocessing phase begins with a conversion of the input image from the BGR to RGB
 color space, facilitating consistent color representation. Subsequently, a median filtering
